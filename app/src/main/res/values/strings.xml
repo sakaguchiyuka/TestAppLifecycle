@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestAppLifecycle</string>
+
+    <string name="start_second_activity">start second</string>
+
+    <string name="first">first</string>
+    <string name="second">second</string>
+
+</resources>
